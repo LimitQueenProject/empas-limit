@@ -1,0 +1,136 @@
+#!/bin/bash
+trap 'store; exit 1;' 2
+threads="20"
+
+
+#kode warna
+
+r="\033[31;1m"
+y="\033[33;1m"
+yl="\033[1;33m"
+g="\033[0;32m"
+gl="\033[32;1m"
+b="\033[0;36m"
+bl="\033[36;1m"
+c="\033[36;1m"
+p="\033[0;35m"
+o="\033[0m"
+
+cek(){
+command -v wget > /dev/null 2>&1 || { echo >&2 "wget belum terinstall ketik >> pkg install wget -y .....lalu ketik bash empas"; exit 1; }
+}
+
+#banner
+
+banner(){
+clear
+echo -e "$g╔══════════════════════════════════════╗    " | pv -qL 600
+echo -e "$g║  $y𝕾𝖊𝖑𝖆𝖒𝖆𝖙 𝕯𝖆𝖙𝖆𝖓𝖌 𝕯𝖎 𝕿𝖔𝖔𝖑𝖘 𝕷𝖎𝖒𝖎𝖙       $g║"| pv -qL 600
+echo -e "$g╚══════════════════════════════════════╝"| pv -qL 600
+echo -e "$yl██     ██ ██▄   ▄██ ██ ████████             "  | pv -qL 600
+echo -e "$yl██     ▄▄ ██▀█▄█▀██ ▄▄    ██  ╔═╗   ╔═╔═    "    | pv -qL 600
+echo -e "$yl██     ██ ██  ▀  ██ ██    ██  ╚═╣╣ ╣╠═╠═╔═╗ "       | pv -qL 600
+echo -e "$yl██████ ██ ██     ██ ██    ██    ╚╚═╝╚═╚═╣ ╣"| pv -qL 600
+echo -e "$g╔══════════════════════════════════════════════╗"| pv -qL 600
+echo -e "$y ℂ𝕠𝕕𝕖 𝔹𝕪 𝕃𝕚𝕞𝕚𝕥ℚ𝕦𝕖𝕖𝕟ℙ𝕣𝕠𝕛𝕖𝕔𝕥                                               " | pv -qL 600
+echo -e "$y Github : https://github.com/LimitQueenProject"| pv -qL 600
+echo -e "$y YOuTube : Limit Queen Project"                  | pv -qL 600
+echo -e "$g╚══════════════════════════════════════════════╝"| pv -qL 600
+}
+
+#mulai
+
+mulai (){
+wget https://raw.githubusercontent.com/LimitQueenProject/banner/master/empass -o done
+
+for anjay in $(shuf empass)
+do
+echo "$anjay"
+sleep 0.3
+done
+}
+function stor() {
+if [[ -n "$threads" ]]; then
+printf "\n"
+printf "\e[1;91m [*] Waiting threads shutting down...\n\e[0m"
+sleep 4
+fi
+
+
+}
+
+#shutdown
+
+function store() {
+
+if [[ -n "$threads" ]]; then
+printf "\n"
+printf "\e[1;91m [*] Memutuskan program tunggu...\n\e[0m"
+rm -rf empass
+rm -rf done
+sleep 2
+echo -e "${g}Selesai${o}"
+
+fi
+}
+
+menu(){
+echo -e "$g╔════════════════════════╗"| pv -qL 600
+echo -e "$g║$y  Menu Script Saat Ini  $g║"| pv -qL 600
+echo -e "$g╚════════════════════════╝"| pv -qL 600
+echo -e "${p}"
+echo -e "${y}[${g}1${y}]${b} Update Script${o}" | pv -qL 600
+echo -e "${y}[${g}2${y}]${b} Langsung Cari Empas${o}" | pv -qL 600
+echo ""
+echo -e "$g╔═╣${y}  Silahkan pilih  ${g}║"
+echo -e "$g║ ╚══════════════════╝"
+read -p $'\033[0;32m╚══════>\033[0m ' pilihan
+
+if [[ $pilihan == 1 ]]; then
+git pull origin master
+exit
+elif [[ $pilihan == 2 ]]; then
+mulai
+else
+echo -e "${r}Pilih yang ada aja njeng"
+banner
+menu
+fi
+}
+
+sandi(){
+banner
+echo -e "$g╔════════════════════════╗    "
+echo -e "$g║    $y𝖘𝖈𝖗𝖎𝖕𝖙 𝖉𝖎 𝖐𝖚𝖓𝖈𝖎     $g║"
+echo -e "$g╚════════════════════════╝"
+echo -e "Hubungi LimitQueen 081212624360"
+read -p $'\033[1;35mMau Hubungi LImitQueen ? \e[1;32my\033[0m/\e[1;32mn\033[0m ' mau
+if [[ $mau == y || $mau == mau ]]; then
+xdg-open http://wa.me/6281212624360?text=bang+bagi+sandi
+fi
+echo -e "$g  ╔══════════════════════════╗"
+echo -e "$g╔═╣  ${y}MASUKAN PASSWORD TOOLS ${g} ║"
+echo -e "$g║ ╚══════════════════════════╝"
+read -p $'\033[0;32m╚══════> \033[0m' pass
+
+if [[ $pass == hi ]]; then
+echo -e "${gl}𝕂𝔸𝕋𝔸 𝕊𝔸ℕ𝔻𝕀 𝔹𝔼ℕ𝔸ℝ!!"
+sleep 1.1
+banner
+menu
+elif [[ $pass == limsky ]]; then
+echo -e "${gl}𝕂𝔸𝕋𝔸 𝕊𝔸ℕ𝔻𝕀 𝔹𝔼ℕ𝔸ℝ!!"
+sleep 1.1
+clear;
+banner
+menu
+else
+echo -e "${r}𝕂𝔸𝕋𝔸 𝕊𝔸ℕ𝔻𝕀 𝕊𝔸𝕃𝔸ℍ!!!"
+sleep 1.5
+sandi
+fi
+}
+
+banner
+cek
+menu
