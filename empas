@@ -1,8 +1,159 @@
-#!/bin/bash
-#z="
-#";ez='p="\';cCz='█ ██';PIz='ang ';BDz='╠═╠═';qEz=' -o ';iDz='ube ';JFz='$(sh';CDz='╔═╗ ';bFz='\e[1';CFz='d(){';XFz='then';KBz='lalu';IEz='for ';PDz='𝕖𝕟';fJz=''\'' pa';JCz='tang';TIz='g"';rz='2>&1';SHz='o}" ';HFz='yyyy';MFz='yyy"';mIz='Hubu';qz='ull ';hFz='eads';AIz='elif';OGz='lagi';Iz='"20"';jHz=' pil';xBz='══╗ ';MCz='s Li';aJz=' TOO';gEz=' emp';PGz=' gak';HEz='e';NIz='}Pil';PCz='  $g';KFz='uf e';DEz='er/e';eDz='enPr';XCz=' -qL';PHz='ate ';ZIz='i ku';Uz='0;32';YCz=' 600';iz='cek(';sBz='clea';WBz='/nul';NBz='ash ';tDz='onte';wHz=' ori';Hz='ads=';yDz='ject';IGz='}Sel';yGz='╗"| ';wJz=' lim';wBz='════';Lz='31;1';lz='and ';tEz='(shu';Gz='thre';rCz='  ██';AHz='$y  ';HCz='lama';rHz='ilih';cHz=' Unc';EFz='ton ';DJz=']; t';BIz=' [[ ';EEz='mpas';tIz='m/\e';RBz=' 1; ';UHz=' Lan';FGz='ton';OCz='    ';sEz='in $';qIz=' \e[';pBz='bann';pIz='en ?';IHz='}"';wz='wget';rEz='yyy ';QCz='║"| ';XIz='${y}';JBz='....';pCz='▀██ ';qBz='er()';LEz=' $(s';AGz='rm -';EGz='sh';kz='comm';CKz='� 𝕊';VDz='Gith';EKz='�𝕀 ';yCz='  ╚═';xDz='nPro';rIz='1;32';FJz='xdg-';gJz='ss';dEz='yy i';qCz='▄▄  ';GEz=' don';oHz='liha';nHz=''\'' pi';Mz='m"';Vz='gl="';jGz='i ==';dJz=' \03';aCz='██  ';hEz='as-f';WCz='| pv';pDz='/raw';vDz='om/L';SJz='"$g ';AEz='/ban';XHz='ri E';KGz='${o}';nBz='it 1';VIz='i(){';WFz=']]; ';sGz='= y ';ZGz='╚═══';iHz='hkan';OJz='=ban';BKz='�𝕋�';GIz='3 ]]';ADz='╣╣ ╣';iBz='etik';qDz='.git';rJz='ℝ!!"';rBz='{';UBz='v > ';dHz='g}5$';jEz=')';HBz='ll w';gIz='een ';cDz='Limi';fIz='itQu';LBz=' ket';KCz=' Di ';KIz='5 ]]';RIz='aja ';QIz='ada ';eJz='3[0m';cJz='{g} ';VGz=' -p ';oEz='-unc';Tz='g="\';HJz='p://';Xz='1m"';Fz=''\'' 2';wEz='unch';hBz='lu k';kBz='h em';ZHz=' Fre';THz='g}2$';lDz='n Pr';QGz=' ? $';gCz='████';NDz='�𝕥ℚ';xIz='[ $m';RJz='andi';JKz='cek';UGz='read';qFz='re()';nDz='mula';KEz='y in';aGz='═══>';sFz=' Mem';OFz='tion';YHz='g}3$';Qz='\033';Bz=' '\''st';tGz='Y ]]';tFz='utus';hHz='Sila';xz=' bel';xFz='tung';HKz='ℍ!!!';eBz='v -y';SFz='[ -n';xEz='eck)';Sz='3m"';NGz='Mau ';vHz='pull';oz='> /d';FCz='  ${';fEz='shuf';TCz='00';VEz='done';ZBz='| { ';ZCz='"$yl';vz='&2 "';sCz='  ╔═';cFz=';91m';YJz='PASS';jDz=': Li';nCz='▄ ██';pHz='n';lHz='${g}';nz='get ';uCz='╔═╔═';MBz='ik b';oFz='p 4';oDz='i ()';wGz='menu';JDz='�𝕖 ';jCz=' pv ';WGz='$'\''\0';IKz='5';uJz='$pas';AKz='}𝕂�';QBz='exit';LIz='d';kEz='y"';oBz='; }';oGz=''\''iya';YEz='(){';MDz='�𝕞�';DFz='-mon';uz='ho >';LGz='═╣${';lBz='pas"';yIz='au =';RGz='{g}║';cBz=' "pv';uGz='; th';jFz='ttin';BGz='rf e';DIz='ihan';CHz=' Scr';pJz=' 𝔹�';ICz='t Da';uFz='kan ';MHz='{y}]';LFz='ton)';NJz='text';JEz='anja';SIz='njen';RCz='pv -';UEz='3';NCz='mit ';aDz='hub.';lJz='𝔸𝕋';bIz='$g║"';JGz='esai';SCz='qL 6';wFz='ram ';yJz='r;';iCz='"  |';VBz='/dev';iEz='resh';sHz='an =';HGz='"${g';GCz='y}Se';fBz=' ...';NFz='func';dDz='tQue';QHz='Scri';LJz='2624';SGz=' ╚══';fHz='nton';HIz='esh';XBz='l 2>';aFz='\n"';Zz='0;36';DDz='╚╚═╝';JJz='e/62';RFz='if [';YGz=';32m';eCz='▄██ ';kHz='ih  ';vBz='"$g╔';UFz='hrea';az='bl="';tCz='╗   ';sIz='my\0';PEz=' "$a';fCz='██ █';nEz='k ()';ECz='"$g║';gGz='== '\''';vGz='en';LHz='g}1$';DHz='ipt ';uBz=' -e ';UDz='" | ';nIz='ngi ';dz='36;1';aHz='sh${';VFz='ds" ';FDz='╣ ╣"';gz='o="\';jJz='i ]]';Yz='b="\';lFz='wn..';sJz='p 1.';REz='"';rDz='hubu';FFz='-o d';kFz='g do';CIz='$pil';XEz='esh ';FEz='s -o';Az='trap';xJz='sky ';Jz='r="\';fGz='agi ';YBz='&1 |';tHz='= 1 ';sDz='serc';bEz='o do';XJz='KAN ';EDz='╚═╚═';IBz='-y .';rFz=' {';XGz='33[0';PBz='s"; ';FIz='i';mDz='t"  ';EHz='Saat';iIz='1262';nJz='�𝔸ℕ';dFz=' [*]';IIz='4 ]]';yHz='er';yEz='yy"';SBz='}';BHz='Menu';Dz=' exi';Ez='t 1;';JHz='"${y';KHz='}[${';iFz=' shu';jBz=' bas';hCz='███ ';AFz='s-mo';NHz='${b}';uEz='f em';xGz='else';kGz=' '\''la';CCz='L 60';gDz='t"| ';SEz='slee';mBz='; ex';RDz='�𝕛�';WJz='MASU';qJz='�ℕ𝔸';ZJz='WORD';oJz='𝔻𝕀';cz='c="\';hGz='mau'\''';DBz='tik ';pGz=''\'' ||';hIz='0812';vEz='pas-';DCz='0';MIz='"${r';YDz='ps:/';vCz='"   ';bJz='LS $';WHz='g Ca';KJz='8121';mGz='|| $';ZFz='tf "';kIz='33[1';FHz=' Ini';lCz='600';dCz='▄   ';QEz='njay';Nz='y="\';PFz=' sto';pFz='fi';CEz='mast';fDz='ojec';TEz='p 0.';XDz=' htt';mCz='   ▄';DGz='rf d';iJz='== h';WDz='ub :';cGz=''\'' la';EBz='>> p';ZEz='-fre';HHz='"${p';Cz='ore;';wIz=' mau';GGz='p 2';TFz=' "$t';AJz='mau ';Pz='yl="';mz='-v w';CBz='l ke';aIz='nci ';qGz=' $la';NEz='ss)';FKz='𝕊𝔸';VCz='══╝"';LCz='Tool';pz='ev/n';iGz='$lag';HDz='"$y ';yz='um t';nGz=' == ';lEz='s-un';Oz='33;1';FBz='kg i';EJz='hen';xHz='gin ';GJz='open';bHz='g}4$';vFz='prog';CGz='s';tBz='r';mFz='.\n\';pEz='heck';Wz='[32;';OEz='do';vJz='s ==';mHz='║"';BFz='onto';dGz='gi';MJz='360?';wCz='  ▀ ';tz='{ ec';JIz='k';aEz='sh -';cIz='"Hub';yBz='   "';jz='){';YIz='pt d';eHz=' Moo';BCz='v -q';bDz='com/';sz=' || ';OHz=' Upd';kJz='l}𝕂';tJz='1';OIz='ih y';YFz='prin';vIz='0m '\''';TBz='-v p';aBz='echo';yFz='gu..';MGz='y}  ';xCz=' ██ ';dBz='ll p';qHz='[ $p';lGz='gi'\'' ';PJz='g+ba';gFz=' thr';eIz=' Lim';hJz='ass ';GHz='╝"| ';TJz=' ╔══';UJz='╗"';ABz='erin';eEz='n $(';UIz='sand';CJz='au ]';EIz='2 ]]';VHz='gsun';IJz='wa.m';OBz='empa';ZDz='/git';QFz='r() ';WIz=' "';bBz=' >&2';hz='0m"';rGz='gi =';GKz='𝕃𝔸';DKz='𝔸ℕ�';eFz=' Wai';fFz='ting';QJz='gi+s';jIz='4360';VJz='═╣  ';QDz='ℙ𝕣�';TDz='�   ';kCz='-qL ';fz='0;35';IFz=' in ';oCz='▀█▄█';LDz=' 𝕃�';MEz='huf ';uHz='git ';gHz=' ""';oIz='LImi';dIz='ungi';SDz='�𝕔�';BJz='== m';BBz='stal';WEz='s-fr';Rz='[1;3';GDz='══╗"';lIz=';35m';eGz='[ $l';bCz='   █';bGz='[0m ';BEz='ner/';wDz='imit';nFz='e[0m';uIz='2mn\';hDz='YOuT';KDz='𝔹𝕪';GFz='one';gBz='..la';ODz='𝕦𝕖';RHz='pt${';mEz='chec';UCz='"$g╚';GBz='nsta';mJz='𝔸 �';Kz='033[';ACz=' | p';bz='[36;';TGz='╝"';IDz='ℂ𝕠�';uDz='nt.c';cEz='ne';kDz='Quee';
-#eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$z$Nz$Kz$Oz$Mz$z$Pz$Qz$Rz$Sz$z$Tz$Kz$Uz$Mz$z$Vz$Qz$Wz$Xz$z$Yz$Kz$Zz$Mz$z$az$Qz$bz$Xz$z$cz$Kz$dz$Mz$z$ez$Kz$fz$Mz$z$gz$Kz$hz$z$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$nz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$z$kz$lz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$SBz$z$pBz$qBz$rBz$z$sBz$tBz$z$aBz$uBz$vBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$z$aBz$uBz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$aBz$uBz$UCz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$VCz$WCz$XCz$YCz$z$aBz$uBz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$OCz$OCz$OCz$iCz$jCz$kCz$lCz$z$aBz$uBz$ZCz$aCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$OCz$vCz$ACz$BCz$CCz$DCz$z$aBz$uBz$ZCz$aCz$bCz$cCz$wCz$xCz$aCz$rCz$yCz$ADz$BDz$CDz$vCz$OCz$WCz$XCz$YCz$z$aBz$uBz$ZCz$gCz$fCz$cCz$OCz$xCz$aCz$rCz$OCz$DDz$EDz$FDz$WCz$XCz$YCz$z$aBz$uBz$vBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$GDz$WCz$XCz$YCz$z$aBz$uBz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$OCz$OCz$OCz$OCz$OCz$OCz$OCz$OCz$OCz$OCz$OCz$UDz$RCz$SCz$TCz$z$aBz$uBz$HDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$RCz$SCz$TCz$z$aBz$uBz$HDz$hDz$iDz$jDz$NCz$kDz$lDz$fDz$mDz$OCz$OCz$OCz$OCz$WCz$XCz$YCz$z$aBz$uBz$UCz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$VCz$WCz$XCz$YCz$z$SBz$z$nDz$oDz$rBz$z$wz$XDz$YDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$kDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$z$IEz$JEz$KEz$LEz$MEz$OBz$NEz$z$OEz$z$aBz$PEz$QEz$REz$z$SEz$TEz$UEz$z$VEz$z$SBz$z$OBz$WEz$XEz$YEz$z$wz$XDz$YDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$kDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$ZEz$aEz$bEz$cEz$z$IEz$JEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$z$OEz$z$aBz$PEz$QEz$kEz$z$SEz$TEz$UEz$z$VEz$z$SBz$z$OBz$lEz$mEz$nEz$rBz$z$wz$XDz$YDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$kDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$oEz$pEz$qEz$VEz$z$IEz$JEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$z$OEz$z$aBz$PEz$QEz$yEz$z$SEz$TEz$UEz$z$VEz$z$SBz$z$OBz$AFz$BFz$CFz$z$wz$XDz$YDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$kDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$DFz$EFz$FFz$GFz$z$IEz$JEz$HFz$IFz$JFz$KFz$EEz$DFz$LFz$z$OEz$z$aBz$PEz$QEz$MFz$z$SEz$TEz$UEz$z$VEz$z$SBz$z$NFz$OFz$PFz$QFz$rBz$z$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$YFz$ZFz$aFz$z$YFz$ZFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$nFz$REz$z$SEz$oFz$z$pFz$z$SBz$z$NFz$OFz$PFz$qFz$rFz$z$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$YFz$ZFz$aFz$z$YFz$ZFz$bFz$cFz$dFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$mFz$nFz$REz$z$AGz$BGz$EEz$CGz$z$AGz$DGz$GFz$z$AGz$BGz$EEz$ZEz$EGz$z$AGz$BGz$EEz$DFz$FGz$z$AGz$BGz$EEz$oEz$pEz$z$SEz$GGz$z$aBz$uBz$HGz$IGz$JGz$KGz$REz$z$aBz$uBz$vBz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$REz$z$aBz$uBz$ECz$SGz$wBz$wBz$wBz$wBz$TGz$z$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$Qz$bGz$cGz$dGz$z$RFz$eGz$fGz$gGz$hGz$sz$iGz$jGz$kGz$lGz$mGz$OGz$nGz$oGz$pGz$qGz$rGz$sGz$mGz$OGz$nGz$tGz$uGz$vGz$z$sBz$tBz$z$wGz$z$xGz$z$QBz$z$pFz$z$pFz$z$SBz$z$wGz$YEz$z$aBz$uBz$vBz$wBz$wBz$wBz$wBz$wBz$wBz$yGz$RCz$SCz$TCz$z$aBz$uBz$ECz$AHz$BHz$CHz$DHz$EHz$FHz$PCz$QCz$RCz$SCz$TCz$z$aBz$uBz$UCz$wBz$wBz$wBz$wBz$wBz$wBz$GHz$RCz$SCz$TCz$z$aBz$uBz$HHz$IHz$z$aBz$uBz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$WCz$XCz$YCz$z$aBz$uBz$JHz$KHz$THz$MHz$NHz$UHz$VHz$WHz$XHz$EEz$KGz$UDz$RCz$SCz$TCz$z$aBz$uBz$JHz$KHz$YHz$MHz$NHz$UHz$VHz$WHz$XHz$EEz$ZHz$aHz$SHz$WCz$XCz$YCz$z$aBz$uBz$JHz$KHz$bHz$MHz$NHz$UHz$VHz$WHz$XHz$EEz$cHz$pEz$KGz$UDz$RCz$SCz$TCz$z$aBz$uBz$JHz$KHz$dHz$MHz$NHz$UHz$VHz$WHz$XHz$EEz$eHz$fHz$KGz$UDz$RCz$SCz$TCz$z$aBz$gHz$z$aBz$uBz$vBz$LGz$MGz$hHz$iHz$jHz$kHz$lHz$mHz$z$aBz$uBz$ECz$SGz$wBz$wBz$wBz$wBz$TGz$z$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$Qz$bGz$nHz$oHz$pHz$z$RFz$qHz$rHz$sHz$tHz$WFz$XFz$z$uHz$vHz$wHz$xHz$CEz$yHz$z$QBz$z$AIz$BIz$CIz$DIz$nGz$EIz$uGz$vGz$z$nDz$FIz$z$AIz$BIz$CIz$DIz$nGz$GIz$uGz$vGz$z$OBz$WEz$HIz$z$AIz$BIz$CIz$DIz$nGz$IIz$uGz$vGz$z$OBz$lEz$mEz$JIz$z$AIz$BIz$CIz$DIz$nGz$KIz$uGz$vGz$z$OBz$AFz$BFz$LIz$z$xGz$z$aBz$uBz$MIz$NIz$OIz$PIz$QIz$RIz$SIz$TIz$z$pBz$yHz$z$wGz$z$pFz$z$SBz$z$UIz$VIz$z$pBz$yHz$z$aBz$uBz$vBz$wBz$wBz$wBz$wBz$wBz$wBz$tCz$WIz$z$aBz$uBz$ECz$OCz$XIz$QHz$YIz$ZIz$aIz$OCz$bIz$z$aBz$uBz$UCz$wBz$wBz$wBz$wBz$wBz$wBz$TGz$z$aBz$uBz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$REz$z$UGz$VGz$WGz$kIz$lIz$NGz$mIz$nIz$oIz$dDz$pIz$qIz$rIz$sIz$XGz$tIz$Rz$uIz$Kz$vIz$wIz$z$RFz$xIz$yIz$sGz$mGz$AJz$BJz$CJz$DJz$EJz$z$FJz$GJz$XDz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$z$pFz$z$aBz$uBz$SJz$TJz$wBz$wBz$wBz$wBz$wBz$wBz$UJz$z$aBz$uBz$vBz$VJz$XIz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$mHz$z$aBz$uBz$ECz$SGz$wBz$wBz$wBz$wBz$wBz$wBz$TGz$z$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$dJz$eJz$fJz$gJz$z$RFz$qHz$hJz$iJz$jJz$uGz$vGz$z$aBz$uBz$HGz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$z$SEz$sJz$tJz$z$pBz$yHz$z$wGz$z$AIz$BIz$uJz$vJz$wJz$xJz$WFz$XFz$z$aBz$uBz$HGz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$z$SEz$sJz$tJz$z$sBz$yJz$z$pBz$yHz$z$wGz$z$xGz$z$aBz$uBz$MIz$AKz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$REz$z$SEz$sJz$IKz$z$UIz$FIz$z$pFz$z$SBz$z$JKz$z$UIz$FIz$z$wGz"
+# Deobfus By X - MrG3P5
+
+trap 'store; exit 1;' 2
+threads="20"
+r="\033[31;1m"
+y="\033[33;1m"
+yl="\033[1;33m"
+g="\033[0;32m"
+gl="\033[32;1m"
+b="\033[0;36m"
+bl="\033[36;1m"
+c="\033[36;1m"
+p="\033[0;35m"
+o="\033[0m"
+cek(){
+command -v wget > /dev/null 2>&1 || { echo >&2 "wget belum terinstall ketik >> pkg install wget -y .....lalu ketik bash empas"; exit 1; }
+command -v pv > /dev/null 2>&1 || { echo >&2 "pv belum terinstall ketik >> pkg install pv -y .....lalu ketik bash empas"; exit 1; }
+}
+banner(){
+clear
+echo -e "$g╔══════════════════════════════════════╗    " | pv -qL 600
+echo -e "$g║  ${y}Selamat Datang Di Tools Limit       $g║"| pv -qL 600
+echo -e "$g╚══════════════════════════════════════╝"| pv -qL 600
+echo -e "$yl██     ██ ██▄   ▄██ ██ ████████             "  | pv -qL 600
+echo -e "$yl██     ▄▄ ██▀█▄█▀██ ▄▄    ██  ╔═╗   ╔═╔═    "    | pv -qL 600
+echo -e "$yl██     ██ ██  ▀  ██ ██    ██  ╚═╣╣ ╣╠═╠═╔═╗ "       | pv -qL 600
+echo -e "$yl██████ ██ ██     ██ ██    ██    ╚╚═╝╚═╚═╣ ╣"| pv -qL 600
+echo -e "$g╔══════════════════════════════════════════════╗"| pv -qL 600
+echo -e "$y ℂ𝕠��𝕖 𝔹𝕪 𝕃��𝕞��𝕥ℚ𝕦𝕖𝕖𝕟ℙ𝕣��𝕛��𝕔��                                               " | pv -qL 600
+echo -e "$y Github : https://github.com/LimitQueenProject"| pv -qL 600
+echo -e "$y YOuTube : Limit Queen Project"                  | pv -qL 600
+echo -e "$g╚══════════════════════════════════════════════╝"| pv -qL 600
+}
+mulai (){
+wget https://raw.githubusercontent.com/LimitQueenProject/banner/master/empass -o done
+for anjay in $(shuf empass)
+do
+echo "$anjay"
+sleep 0.3
+done
+}
+empas-fresh (){
+wget https://raw.githubusercontent.com/LimitQueenProject/banner/master/empas-fresh -o done
+for anjayy in $(shuf empas-fresh)
+do
+echo "$anjayy"
+sleep 0.3
+done
+}
+empas-uncheck (){
+wget https://raw.githubusercontent.com/LimitQueenProject/banner/master/empas-uncheck -o done
+for anjayyy in $(shuf empas-uncheck)
+do
+echo "$anjayyy"
+sleep 0.3
+done
+}
+empas-moontod(){
+wget https://raw.githubusercontent.com/LimitQueenProject/banner/master/empas-monton -o done
+for anjayyyy in $(shuf empas-monton)
+do
+echo "$anjayyyy"
+sleep 0.3
+done
+}
+function stor() {
+if [[ -n "$threads" ]]; then
+printf "\n"
+printf "\e[1;91m [*] Waiting threads shutting down...\n\e[0m"
+sleep 4
+fi
+}
+function store() {
+if [[ -n "$threads" ]]; then
+printf "\n"
+printf "\e[1;91m [*] Memutuskan program tunggu...\n\e[0m"
+rm -rf empass
+rm -rf done
+rm -rf empas-fresh
+rm -rf empas-monton
+rm -rf empas-uncheck
+sleep 2
+echo -e "${g}Selesai${o}"
+echo -e "$g╔═╣${y}  Mau lagi gak ? ${g}║"
+echo -e "$g║ ╚══════════════════╝"
+read -p $'\033[0;32m╚══════>\033[0m ' lagi
+if [[ $lagi == 'mau' || $lagi == 'lagi' || $lagi == 'iya' || $lagi == y || $lagi == Y ]]; then
+clear
+menu
+else
+exit
+fi
+fi
+}
+menu(){
+echo -e "$g╔════════════════════════╗"| pv -qL 600
+echo -e "$g║$y  Menu Script Saat Ini  $g║"| pv -qL 600
+echo -e "$g╚════════════════════════╝"| pv -qL 600
+echo -e "${p}"
+echo -e "${y}[${g}1${y}]${b} Update Script${o}" | pv -qL 600
+echo -e "${y}[${g}2${y}]${b} Langsung Cari Empas${o}" | pv -qL 600
+echo -e "${y}[${g}3${y}]${b} Langsung Cari Empas Fresh${o}" | pv -qL 600
+echo -e "${y}[${g}4${y}]${b} Langsung Cari Empas Uncheck${o}" | pv -qL 600
+echo -e "${y}[${g}5${y}]${b} Langsung Cari Empas Moonton${o}" | pv -qL 600
+echo ""
+echo -e "$g╔═╣${y}  Silahkan pilih  ${g}║"
+echo -e "$g║ ╚══════════════════╝"
+read -p $'\033[0;32m╚══════>\033[0m ' pilihan
+if [[ $pilihan == 1 ]]; then
 git pull origin master
-echo "Udahan ah, gaseru, scriptnya banyak yang pake"
-echo "Scriptnya udah gua hack tod, ini ga akan bisa balik lagi :)"
-echo "gasuka scriptnya gua hack? Pc sini di instagram @royazizbarera_900"
+exit
+elif [[ $pilihan == 2 ]]; then
+mulai
+elif [[ $pilihan == 3 ]]; then
+empas-fresh
+elif [[ $pilihan == 4 ]]; then
+empas-uncheck
+elif [[ $pilihan == 5 ]]; then
+empas-moontod
+else
+echo -e "${r}Pilih yang ada aja njeng"
+banner
+menu
+fi
+}
+sandi(){
+banner
+echo -e "$g╔════════════════════════╗    "
+echo -e "$g║    ${y}Script di kunci     $g║"
+echo -e "$g╚════════════════════════╝"
+echo -e "Hubungi LimitQueen 081212624360"
+read -p $'\033[1;35mMau Hubungi LImitQueen ? \e[1;32my\033[0m/\e[1;32mn\033[0m ' mau
+if [[ $mau == y || $mau == mau ]]; then
+xdg-open http://wa.me/6281212624360?text=bang+bagi+sandi
+fi
+echo -e "$g  ╔══════════════════════════╗"
+echo -e "$g╔═╣  ${y}MASUKAN PASSWORD TOOLS ${g} ║"
+echo -e "$g║ ╚══════════════════════════╝"
+read -p $'\033[0;32m╚══════> \033[0m' pass
+if [[ $pass == hi ]]; then
+echo -e "${gl}𝕂𝔸𝕋𝔸 ��𝔸ℕ𝔻𝕀 𝔹��ℕ𝔸ℝ!!"
+sleep 1.1
+banner
+menu
+elif [[ $pass == limsky ]]; then
+echo -e "${gl}𝕂𝔸𝕋𝔸 ��𝔸ℕ𝔻𝕀 𝔹��ℕ𝔸ℝ!!"
+sleep 1.1
+clear;
+banner
+menu
+else
+echo -e "${r}𝕂��𝕋�� 𝕊𝔸ℕ��𝕀 𝕊𝔸𝕃𝔸ℍ!!!"
+sleep 1.5
+sandi
+fi
+}
+cek
+sandi
+menu
